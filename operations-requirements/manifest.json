@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "00-31a28472",
+    "title": "总纲与研发分工 PRD",
+    "page": "docs/00-31a28472.html",
+    "category": "总纲"
+  },
+  {
+    "slug": "01-bccf7b80",
+    "title": "运营总览 PRD",
+    "page": "docs/01-bccf7b80.html",
+    "category": "运营与销售"
+  },
+  {
+    "slug": "02-92a15edc",
+    "title": "线索池 PRD",
+    "page": "docs/02-92a15edc.html",
+    "category": "运营与销售"
+  },
+  {
+    "slug": "03-46f63706",
+    "title": "预约管理 PRD",
+    "page": "docs/03-46f63706.html",
+    "category": "运营与销售"
+  },
+  {
+    "slug": "04-3e5b6bad",
+    "title": "销售机会 PRD",
+    "page": "docs/04-3e5b6bad.html",
+    "category": "运营与销售"
+  },
+  {
+    "slug": "05-c1ce8f60",
+    "title": "订单中心 PRD",
+    "page": "docs/05-c1ce8f60.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "06-82023959",
+    "title": "合同签约 PRD",
+    "page": "docs/06-82023959.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "07-d26f493f",
+    "title": "保险产品管理 PRD",
+    "page": "docs/07-d26f493f.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "08-058f7e03",
+    "title": "保单管理 PRD",
+    "page": "docs/08-058f7e03.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "09-469db41c",
+    "title": "收款与付款凭证 PRD",
+    "page": "docs/09-469db41c.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "10-1cbbaa73",
+    "title": "客户档案 PRD",
+    "page": "docs/10-1cbbaa73.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "11-81eff8ae",
+    "title": "客户分析 PRD",
+    "page": "docs/11-81eff8ae.html",
+    "category": "交易与客户"
+  },
+  {
+    "slug": "12-b7b0e5f8",
+    "title": "店铺管理 PRD",
+    "page": "docs/12-b7b0e5f8.html",
+    "category": "门店与仓储"
+  },
+  {
+    "slug": "13-11783585",
+    "title": "迷你仓空间管理 PRD",
+    "page": "docs/13-11783585.html",
+    "category": "门店与仓储"
+  },
+  {
+    "slug": "14-8e089307",
+    "title": "续租管理 PRD",
+    "page": "docs/14-8e089307.html",
+    "category": "门店与仓储"
+  },
+  {
+    "slug": "15-675cd04f",
+    "title": "退租管理 PRD",
+    "page": "docs/15-675cd04f.html",
+    "category": "门店与仓储"
+  },
+  {
+    "slug": "16-541d5fad",
+    "title": "转仓管理 PRD",
+    "page": "docs/16-541d5fad.html",
+    "category": "门店与仓储"
+  },
+  {
+    "slug": "17-64dc4677",
+    "title": "迷你箱资产管理 PRD",
+    "page": "docs/17-64dc4677.html",
+    "category": "迷你箱与商品"
+  },
+  {
+    "slug": "18-6fba4332",
+    "title": "迷你箱配对 PRD",
+    "page": "docs/18-6fba4332.html",
+    "category": "迷你箱与商品"
+  },
+  {
+    "slug": "19-a1835e32",
+    "title": "迷你箱物流履约 PRD",
+    "page": "docs/19-a1835e32.html",
+    "category": "迷你箱与商品"
+  },
+  {
+    "slug": "20-f34a9675",
+    "title": "迷你箱套餐管理 PRD",
+    "page": "docs/20-f34a9675.html",
+    "category": "迷你箱与商品"
+  },
+  {
+    "slug": "21-6ebebec1",
+    "title": "衍生商品管理 PRD",
+    "page": "docs/21-6ebebec1.html",
+    "category": "迷你箱与商品"
+  },
+  {
+    "slug": "22-c3970181",
+    "title": "工单分析 PRD",
+    "page": "docs/22-c3970181.html",
+    "category": "工单与营销"
+  },
+  {
+    "slug": "23-c65863da",
+    "title": "工单中心 PRD",
+    "page": "docs/23-c65863da.html",
+    "category": "工单与营销"
+  },
+  {
+    "slug": "24-219d9e89",
+    "title": "营销活动管理 PRD",
+    "page": "docs/24-219d9e89.html",
+    "category": "工单与营销"
+  },
+  {
+    "slug": "25-fe98cd86",
+    "title": "优惠券管理 PRD",
+    "page": "docs/25-fe98cd86.html",
+    "category": "工单与营销"
+  },
+  {
+    "slug": "26-f75f1df5",
+    "title": "推荐码管理 PRD",
+    "page": "docs/26-f75f1df5.html",
+    "category": "工单与营销"
+  },
+  {
+    "slug": "27-759e92c6",
+    "title": "团队管理 PRD",
+    "page": "docs/27-759e92c6.html",
+    "category": "组织与权限"
+  },
+  {
+    "slug": "28-b9a4ccfd",
+    "title": "用户管理 PRD",
+    "page": "docs/28-b9a4ccfd.html",
+    "category": "组织与权限"
+  },
+  {
+    "slug": "29-22efcc40",
+    "title": "角色与权限 PRD",
+    "page": "docs/29-22efcc40.html",
+    "category": "组织与权限"
+  },
+  {
+    "slug": "30-4f595648",
+    "title": "操作审计 PRD",
+    "page": "docs/30-4f595648.html",
+    "category": "组织与权限"
+  },
+  {
+    "slug": "31-03f54ee2",
+    "title": "跨端API契约 PRD",
+    "page": "docs/31-03f54ee2.html",
+    "category": "平台能力"
+  },
+  {
+    "slug": "32-5d0011e5",
+    "title": "领域事件总线 PRD",
+    "page": "docs/32-5d0011e5.html",
+    "category": "平台能力"
+  },
+  {
+    "slug": "33-1e5bd1e2",
+    "title": "通知中心 PRD",
+    "page": "docs/33-1e5bd1e2.html",
+    "category": "平台能力"
+  },
+  {
+    "slug": "34-a0429573",
+    "title": "数据迁移 PRD",
+    "page": "docs/34-a0429573.html",
+    "category": "平台能力"
+  },
+  {
+    "slug": "35-30ca444d",
+    "title": "系统监控与运维 PRD",
+    "page": "docs/35-30ca444d.html",
+    "category": "平台能力"
+  }
+]
