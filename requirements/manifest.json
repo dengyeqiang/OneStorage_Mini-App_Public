@@ -1,128 +1,68 @@
 [
   {
-    "slug": "00-31a28472",
-    "title": "总纲与研发分工 PRD",
-    "page": "docs/00-31a28472.html",
-    "category": "跨端基础"
+    "slug": "01-storage-booking",
+    "title": "迷你仓选仓下单 PRD",
+    "page": "docs/01-storage-booking.html",
+    "category": "迷你仓业务"
   },
   {
-    "slug": "03-46f63706",
-    "title": "预约管理 PRD",
-    "page": "docs/03-46f63706.html",
-    "category": "账户与交易"
+    "slug": "02-storage-unlock",
+    "title": "迷你仓开锁 PRD",
+    "page": "docs/02-storage-unlock.html",
+    "category": "迷你仓业务"
   },
   {
-    "slug": "05-c1ce8f60",
-    "title": "订单中心 PRD",
-    "page": "docs/05-c1ce8f60.html",
-    "category": "账户与交易"
+    "slug": "03-storage-renewal",
+    "title": "迷你仓续租 PRD",
+    "page": "docs/03-storage-renewal.html",
+    "category": "迷你仓业务"
   },
   {
-    "slug": "06-82023959",
-    "title": "合同签约 PRD",
-    "page": "docs/06-82023959.html",
-    "category": "账户与交易"
+    "slug": "04-storage-transfer",
+    "title": "迷你仓转仓 PRD",
+    "page": "docs/04-storage-transfer.html",
+    "category": "迷你仓业务"
   },
   {
-    "slug": "08-058f7e03",
-    "title": "保单管理 PRD",
-    "page": "docs/08-058f7e03.html",
-    "category": "账户与交易"
+    "slug": "05-storage-moveout",
+    "title": "迷你仓退租 PRD",
+    "page": "docs/05-storage-moveout.html",
+    "category": "迷你仓业务"
   },
   {
-    "slug": "09-469db41c",
-    "title": "收款与付款凭证 PRD",
-    "page": "docs/09-469db41c.html",
-    "category": "账户与交易"
+    "slug": "06-box-booking",
+    "title": "迷你箱下单 PRD",
+    "page": "docs/06-box-booking.html",
+    "category": "迷你箱业务"
   },
   {
-    "slug": "10-1cbbaa73",
-    "title": "客户档案 PRD",
-    "page": "docs/10-1cbbaa73.html",
-    "category": "账户与交易"
+    "slug": "07-box-first-fulfillment",
+    "title": "迷你箱送箱收箱入仓 PRD",
+    "page": "docs/07-box-first-fulfillment.html",
+    "category": "迷你箱业务"
   },
   {
-    "slug": "12-b7b0e5f8",
-    "title": "店铺管理 PRD",
-    "page": "docs/12-b7b0e5f8.html",
-    "category": "仓储服务"
+    "slug": "08-box-recall",
+    "title": "迷你箱召回取物 PRD",
+    "page": "docs/08-box-recall.html",
+    "category": "迷你箱业务"
   },
   {
-    "slug": "13-11783585",
-    "title": "迷你仓空间管理 PRD",
-    "page": "docs/13-11783585.html",
-    "category": "仓储服务"
+    "slug": "09-box-return",
+    "title": "迷你箱返仓 PRD",
+    "page": "docs/09-box-return.html",
+    "category": "迷你箱业务"
   },
   {
-    "slug": "14-8e089307",
-    "title": "续租管理 PRD",
-    "page": "docs/14-8e089307.html",
-    "category": "仓储服务"
+    "slug": "10-box-termination",
+    "title": "迷你箱退租 PRD",
+    "page": "docs/10-box-termination.html",
+    "category": "迷你箱业务"
   },
   {
-    "slug": "15-675cd04f",
-    "title": "退租管理 PRD",
-    "page": "docs/15-675cd04f.html",
-    "category": "仓储服务"
-  },
-  {
-    "slug": "16-541d5fad",
-    "title": "转仓管理 PRD",
-    "page": "docs/16-541d5fad.html",
-    "category": "仓储服务"
-  },
-  {
-    "slug": "18-6fba4332",
-    "title": "迷你箱配对 PRD",
-    "page": "docs/18-6fba4332.html",
-    "category": "迷你箱与商品"
-  },
-  {
-    "slug": "19-a1835e32",
-    "title": "迷你箱物流履约 PRD",
-    "page": "docs/19-a1835e32.html",
-    "category": "迷你箱与商品"
-  },
-  {
-    "slug": "20-f34a9675",
-    "title": "迷你箱套餐管理 PRD",
-    "page": "docs/20-f34a9675.html",
-    "category": "迷你箱与商品"
-  },
-  {
-    "slug": "21-6ebebec1",
-    "title": "衍生商品管理 PRD",
-    "page": "docs/21-6ebebec1.html",
-    "category": "迷你箱与商品"
-  },
-  {
-    "slug": "24-219d9e89",
-    "title": "营销活动管理 PRD",
-    "page": "docs/24-219d9e89.html",
-    "category": "营销权益"
-  },
-  {
-    "slug": "25-fe98cd86",
-    "title": "优惠券管理 PRD",
-    "page": "docs/25-fe98cd86.html",
-    "category": "营销权益"
-  },
-  {
-    "slug": "26-f75f1df5",
-    "title": "推荐码管理 PRD",
-    "page": "docs/26-f75f1df5.html",
-    "category": "营销权益"
-  },
-  {
-    "slug": "31-03f54ee2",
-    "title": "跨端API契约 PRD",
-    "page": "docs/31-03f54ee2.html",
-    "category": "跨端基础"
-  },
-  {
-    "slug": "33-1e5bd1e2",
-    "title": "通知中心 PRD",
-    "page": "docs/33-1e5bd1e2.html",
-    "category": "跨端基础"
+    "slug": "11-order-center",
+    "title": "订单管理 PRD",
+    "page": "docs/11-order-center.html",
+    "category": "订单中心"
   }
 ]
